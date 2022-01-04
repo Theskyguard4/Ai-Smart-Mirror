@@ -1,0 +1,20 @@
+-scedule 11/4/2014
+
+-scedule 11/4/2022
+
+-scedule 11/8/2014
+
+-scedule 11/4/2023
+
+-scedule 11/4/2022
+
+-scedule 13/7/2021
+
+-scedule 19/7/2021 go_to_school
+
+-scedule 18/7/2021 go_to_church
+-scedule 27/7/2021 go_home
+-scedule 27/7/2021 go_home
+-scedule 27/7/2021 go_home
+-scedule 27/7/2021 gp_gidf
+-scedule 27/7/2021
